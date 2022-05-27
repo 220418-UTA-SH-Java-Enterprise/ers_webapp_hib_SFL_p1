@@ -39,9 +39,9 @@ A very simple CRUD web application to mantain the growth of reimbursing employee
 
 ## Contributors
 
-Enock Lee 
-Jose Emmanuel Fuentes
-Santiago Garcia II 
+Enock Lee, 
+ Jose Emmanuel Fuentes,
+ Santiago Garcia II 
 
 ## License
 
