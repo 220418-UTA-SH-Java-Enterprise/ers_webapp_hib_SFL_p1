@@ -36,3 +36,23 @@
 2022-05-17 17:54:36 INFO [com.ers.services.ManagerServiceImpl]: In service layer. Register Manager: Manager [managerId=3, userName=test, password=test, firstName=test, lastName=test, email=test].
 2022-05-17 17:54:36 INFO [com.ers.services.ManagerServiceImpl]: In service layer. Loggin in Manager with user name and password: CRock, password.
 2022-05-17 17:54:36 INFO [com.ers.services.ManagerServiceImpl]: In service layer. Loggin in Manager with user name and password: , .
+2022-05-18 08:25:38 INFO [com.ers.services.EmployeeServiceImpl]: In service layer. Register Employee: Employee [employeeId=3, userName=, password=, firstName=, lastName=, email=].
+2022-05-18 08:25:38 INFO [com.ers.services.EmployeeServiceImpl]: In service layer. Loggin in Employee with user name and password: , .
+2022-05-18 08:25:38 INFO [com.ers.services.EmployeeServiceImpl]: In service layer. Register Employee: Employee [employeeId=3, userName=test, password=test, firstName=test, lastName=test, email=test].
+2022-05-18 08:25:38 INFO [com.ers.services.EmployeeServiceImpl]: In service layer. Loggin in Employee with user name and password: CRock, password.
+2022-05-18 08:25:38 INFO [com.ers.services.EmployeeServiceImpl]: In service layer. Loggin in Employee with user name and password: Ramen, Sushi.
+2022-05-18 08:25:52 INFO [com.ers.services.ManagerServiceImpl]: In service layer. Register Manager: Manager [managerId=3, userName=, password=, firstName=, lastName=, email=].
+2022-05-18 08:25:52 INFO [com.ers.services.ManagerServiceImpl]: In service layer. Loggin in Manager with user name and password: , .
+2022-05-18 08:25:52 INFO [com.ers.services.ManagerServiceImpl]: In service layer. Register Manager: Manager [managerId=3, userName=test, password=test, firstName=test, lastName=test, email=test].
+2022-05-18 08:25:52 INFO [com.ers.services.ManagerServiceImpl]: In service layer. Loggin in Manager with user name and password: CRock, password.
+2022-05-18 08:25:52 INFO [com.ers.services.ManagerServiceImpl]: In service layer. Loggin in Manager with user name and password: , .
+2022-05-18 09:10:56 INFO [com.ers.services.EmployeeServiceImpl]: In service layer. Register Employee: Employee [employeeId=3, userName=, password=, firstName=, lastName=, email=].
+2022-05-18 09:10:56 INFO [com.ers.services.EmployeeServiceImpl]: In service layer. Loggin in Employee with user name and password: , .
+2022-05-18 09:10:56 INFO [com.ers.services.EmployeeServiceImpl]: In service layer. Register Employee: Employee [employeeId=3, userName=test, password=test, firstName=test, lastName=test, email=test].
+2022-05-18 09:10:56 INFO [com.ers.services.EmployeeServiceImpl]: In service layer. Loggin in Employee with user name and password: CRock, password.
+2022-05-18 09:10:56 INFO [com.ers.services.EmployeeServiceImpl]: In service layer. Loggin in Employee with user name and password: Ramen, Sushi.
+2022-05-18 09:11:05 INFO [com.ers.services.ManagerServiceImpl]: In service layer. Register Manager: Manager [managerId=3, userName=, password=, firstName=, lastName=, email=].
+2022-05-18 09:11:05 INFO [com.ers.services.ManagerServiceImpl]: In service layer. Loggin in Manager with user name and password: , .
+2022-05-18 09:11:05 INFO [com.ers.services.ManagerServiceImpl]: In service layer. Register Manager: Manager [managerId=3, userName=test, password=test, firstName=test, lastName=test, email=test].
+2022-05-18 09:11:05 INFO [com.ers.services.ManagerServiceImpl]: In service layer. Loggin in Manager with user name and password: CRock, password.
+2022-05-18 09:11:05 INFO [com.ers.services.ManagerServiceImpl]: In service layer. Loggin in Manager with user name and password: , .
