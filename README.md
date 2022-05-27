@@ -39,7 +39,9 @@ A very simple CRUD web application to mantain the growth of reimbursing employee
 
 ## Contributors
 
-> Here list the people who have contributed to this project. (ignore this section, if its a solo project)
+Enock Lee 
+Jose Emmanuel Fuentes
+Santiago Garcia II 
 
 ## License
 
