@@ -35,7 +35,7 @@ A very simple CRUD web application to mantain the growth of reimbursing employee
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+Through postman users can send information to register, log in and out, and view/modify the information for both managers and employees. 
 
 ## Contributors
 
